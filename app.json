@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-calculator-app",
-    "slug": "rn-calculator-app",
+    "name": "Calculator",
+    "slug": "Calculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

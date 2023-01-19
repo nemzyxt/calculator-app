@@ -1,5 +1,5 @@
 {
-  "name": "rn-calculator-app",
+  "name": "Calculator",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
